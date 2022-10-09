@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asimiffi
-- 👀 I’m interested in Front end jobs. I am good at HTML, CSS, Bootstrap and
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Front end jobs. I am good at HTML, CSS, Bootstrap and React
+- 🌱 I’m currently learning MERN full-stack development
 - 💞️ I’m looking to collaborate on github
 - 📫 you can reach me at asim.nustian@hotmail.com
 
